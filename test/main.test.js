@@ -1,7 +1,7 @@
 /* eslint-disable no-undef */
 
 import React from 'react';
-import Main from '../pages/main';
+import Main from '../src/pages/main';
 import { mount } from 'enzyme';
 
 test('welcomes the user to React Router', function() {

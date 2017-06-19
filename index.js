@@ -5,7 +5,7 @@ import {
   Route
 } from 'react-router-dom';
 import createHistory from 'history/createBrowserHistory';
-import Main from './pages/main.js';
+import Main from './src/pages/main.js';
 const history = createHistory();
 
 const App = () => (

@@ -16,7 +16,7 @@
     "test": "jest",
     "fix": "eslint --fix .",
     "lint": "eslint .",
-    "lint-css": "stylelint main.css"
+    "lint-css": "stylelint src/styles/main.css"
   },
   "engines": {
     "yarn": "*"
